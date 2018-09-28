@@ -1,0 +1,374 @@
+[
+  {
+    "tipo": "provincia",
+    "descripcion": "Intervenciones en cuencas y microcuencas",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HD_{}_INTERVENCIONCUENCAS_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Intervenciones planificadas para cuencas y microcuencas",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HD_{}_INTERVENCIONCUENCASPLANIFICADA_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Límite provincial",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HA_{}_LIMITEPROVINCIA_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Límites cantonales",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HA_{}_LIMITECANTONES_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Límites parroquiales rurales",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HA_{}_LIMITEPARROQUIAS_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Sistema de riego existente",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CF_{}_SISTEMARIEGOEXISTENTE_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Sistema de riego planificado",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CF_{}_SISTEMARIEGOPLANIFICADO_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Vialidad rural existente",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CA_{}_VIALIDADRURALEXISTENTE_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Vialidad rural planificada",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CA_{}_VIALIDADRURALPLANIFICADA_{}{}_{}"
+  },
+  {
+    "tipo": "provincia",
+    "descripcion": "Áreas definidas para fomentar las actividades productivas provinciales",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HF_{}_AREAFOMENTOPRODUCTIVO_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Asentamientos humanos menores, excluyendo cabeceras parroquiales",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BA_{}_ASENTAMIENTOSHUMANOSMENORES_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Categorías de Ordenamiento Territorial",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HE_{}_COT_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Cementerios",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_CEMENTERIOS_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Delimitación de playas de mar, riveras y lechos de ríos, esteros, quebradas, lagos y lagunas, y otros cuerpos de agua",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HD_{}_CUERPOSAGUA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente Camales",
+    "esquema": "A_INDUSTRIA_SERVICIOS",
+    "prefijo": "AC_{}_CAMALES_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente Sociocultural",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BH_{}_EQUIPAMIENTOSOCIOCULTURAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente contra incendios",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOCONTRAINCENDIOS_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente de Terminales de transporte",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CE_{}_TERMINALTRANSPORTE_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente para Bienestar Social",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOBIENESTARSOCIAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente para Educación",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BD_{}_EQUIPAMIENTOEDUCACION_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente para Mercados, Ferias y otros similares",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BC_{}_EQUIPAMIENTOMERCADOS_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente para Salud",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BE_{}_EQUIPAMIENTOSALUD_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente para Seguridad",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOSEGURIDAD_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Equipamiento cantonal existente para gestión",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOGESTION_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Instalaciones de control de tránsito y transporte",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CE_{}_CONTROLTRANSITOTRANSPORTE_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Instalaciones de control del parque automotor",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CE_{}_CONTROLPAQRQUEAUTOMOTOR_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Instalaciones deportivas",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BF_{}_INSTALACIONESDEPORTIVAS_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Límite cantonal",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HA_{}_LIMITECANTONAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Límite de las parroquias rurales",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HA_{}_LIMITEPARROQUIASRURAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Otros espacios públicos (no áreas verdes)",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_OTROSESPACIOSPUBLICOS_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Propuesta de asignación de usos de suelo deseables y permitidos",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HB_{}_PROPUESTAUSOSUELO_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Propuesta de instalaciones y redes de distribución y conducción de agua potable",
+    "esquema": "A_INDUSTRIA_SERVICIOS",
+    "prefijo": "AE_{}_PROPUESTAREDAGUAPOTABLE_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Propuesta de instalaciones y redes de recolección y tratamiento de aguas lluvias",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CF_{}_PROPUESTATRATAMIENTOAGUALLUVIA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Propuesta de instalaciones y redes de recolección y tratamiento de aguas residuales",
+    "esquema": "A_INDUSTRIA_SERVICIOS",
+    "prefijo": "AG_{}_PROPUESTATRATAMIENTOAGUARESIDUAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Propuesta de reservas de suelo para equipamientos cantonales",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HB_{}_PROPUESTARESERVASUELOEQUIPAMIENTOS_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Propuesta de reservas de suelo para vivienda de interés social",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HB_{}_PROPUESTARESERVASUELOVIVIENDASOCIAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Red víal cantonal propuesta",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CA_{}_REDVIALPROPUESTA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Uso actual del suelo",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HB_{}_USOSUELO_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Zonas de riesgo",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HF_{}_ZONASRIESGO_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas concesionadas para la explotación de áridos y pétreos en ríos, lagos, playas de mar y canteras",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HF_{}_AREACONCESIONADA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas de patrimonio cultural cantonal",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HF_{}_PATRIMONIOCULTURAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas de patrimonio natural cantonal",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HC_{}_PATRIMONIONATURAL_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas patrimoniales culturales cantonales propuestas",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HF_{}_PATRIMONIOCULTUTALPROPUESTA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas patrimoniales naturales cantonales propuestas",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HC_{}_PATRIMONIONATURALPROPUESTA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas urbanas y rurales",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BA_{}_AREAURBANA_{}{}_{}"
+  },
+  {
+    "tipo": "canton",
+    "descripcion": "Áreas verdes",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HC_{}_AREAVERDE_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Casas comunales",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BA_{}_CASASCOMUNALES_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Cementerios",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_CEMENTERIOS_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Equipamiento alcance parroquial propuesto",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOPROPUESTO_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Equipamiento de Bienestar Social de alcance parroquial",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOBIENESTARSOCIAL_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Equipamiento de Salud de alcance parroquial",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BE_{}_EQUIPAMIENTOSALUD_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Equipamiento de Seguridad de alcance parroquial",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOSEGURIDAD_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Equipamientos de alcance parroquial de apoyo a la producción",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BC_{}_EQUIPAMIENTOPRODUCCION_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Instalaciones deportivas",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BF_{}_EQUIPAMIENTODEPORTIVO_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Límite comunas/recintos/anejos",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BA_{}_LIMITECOMUNAS_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Límite parroquial",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HA_{}_LIMITEPARROQUIA_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Mercados, Ferias y otros similares",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BC_{}_MERCADOSFERIAS_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Otro equipamiento alcance parroquial",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_EQUIPAMIENTOOTRO_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Parques",
+    "esquema": "B_GEOGRAFIA_SOCIOECONOMICA",
+    "prefijo": "BB_{}_PARQUES_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Vialidad parroquial rural existente",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CA_{}_VIALIDADRURAL_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Vialidad parroquial rural planificada",
+    "esquema": "C_INFRAESTRUCTURA_TRANSPORTE",
+    "prefijo": "CA_{}_VIALIDADRURALPLANIFICADA_{}{}_{}"
+  },
+  {
+    "tipo": "parroquia",
+    "descripcion": "Áreas propuestas para fomentar las actividades productivas comunitarias",
+    "esquema": "H_DEMARCACION",
+    "prefijo": "HF_{}_AREAPRODUCTIVAPROPUESTA_{}{}_{}"
+  }
+]

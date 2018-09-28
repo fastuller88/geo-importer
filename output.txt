@@ -1,0 +1,2070 @@
+geoimporter: ERROR:  relation "ba_1901_asentamientoshumanosmenores_201809_0k_cantones" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_cantones  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_cantones_1
+
+geoimporter: ERROR:  relation "ba_1901_asentamientoshumanosmenores_201809_0k_limitesterrito" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_limitesterrito  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_limitesterrito_1
+
+geoimporter: ERROR:  relation "ba_1901_asentamientoshumanosmenores_201809_0k_zonaurbana1901" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_zonaurbana1901  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_zonaurbana1901_1
+
+geoimporter: ERROR:  relation "ba_1901_asentamientoshumanosmenores_201809_0k_vias" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_vias  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_vias_1
+
+geoimporter: ERROR:  relation "ba_1901_asentamientoshumanosmenores_201809_0k_zamora" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_zamora  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1901_ASENTAMIENTOSHUMANOSMENORES_201809_0K_zamora_1
+
+geoimporter: Error in extration file: 2106_geo_Delimitaciones_de_playas_de_mar__riveras_y_lechos_de_rios_esteros_quebradas__lagosy_lagunas__y_otros_cuerpos_de_agua.zip
+
+geoimporter: ERROR:  relation "hb_2106_propuestareservasueloequipamientos_201809_0k_cobertu" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_2106_PROPUESTARESERVASUELOEQUIPAMIENTOS_201809_0K_cobertu  to H_DEMARCACION.HB_2106_PROPUESTARESERVASUELOEQUIPAMIENTOS_201809_0K_cobertu_1
+
+geoimporter: ERROR:  relation "hb_2106_propuestareservasueloviviendasocial_201809_0k_cobert" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_2106_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_cobert  to H_DEMARCACION.HB_2106_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_cobert_1
+
+geoimporter: Error in extration file: 2106_geo_Delimitaciones_de_playas_de_mar__riveras_y_lechos_de_rios_esteros_quebradas__lagosy_lagunas__y_otros_cuerpos_de_agua-1.zip
+
+geoimporter: ERROR:  relation "ba_0206_asentamientoshumanosmenores_201809_0k_asentamientosp" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0206_ASENTAMIENTOSHUMANOSMENORES_201809_0K_asentamientosp  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0206_ASENTAMIENTOSHUMANOSMENORES_201809_0K_asentamientosp_1
+
+geoimporter: ERROR:  relation "ba_0206_asentamientoshumanosmenores_201809_0k_asentamientosp" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0206_ASENTAMIENTOSHUMANOSMENORES_201809_0K_asentamientosp  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0206_ASENTAMIENTOSHUMANOSMENORES_201809_0K_asentamientosp_1
+
+geoimporter: ERROR:  relation "ba_0206_asentamientoshumanosmenores_201809_0k_asentamientosp_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0206_ASENTAMIENTOSHUMANOSMENORES_201809_0K_asentamientosp_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0206_ASENTAMIENTOSHUMANOSMENORES_201809_0K_asentamientosp_2
+
+geoimporter: Error in extration file: 0206_geo_EDUCACI__N-2.zip
+
+geoimporter: ERROR:  value too long for type character varying(255)
+table H_DEMARCACION.HD_0206_CUERPOSAGUA_201809_0K_riiosyquebradas for folder D:/uploads/tmp/d9b8d7b0-9ddb-4b61-9a23-7828d1058363/RIOS Y QUEBRADAS/Riios y Quebradas.shp
+
+geoimporter: ERROR:  value too long for type character varying(255)
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_0206_OTROSESPACIOSPUBLICOS_201809_0K_deportivo for folder D:/uploads/tmp/fb38c3d4-ee13-4b43-8a12-7708907d169a/DEPORTIVO/Deportivo.shp
+
+geoimporter: ERROR:  relation "he_1901_cot_201809_0k_cantones" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HE_1901_COT_201809_0K_cantones  to H_DEMARCACION.HE_1901_COT_201809_0K_cantones_1
+
+geoimporter: ERROR:  relation "he_1901_cot_201809_0k_vias" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HE_1901_COT_201809_0K_vias  to H_DEMARCACION.HE_1901_COT_201809_0K_vias_1
+
+geoimporter: ERROR:  relation "he_1901_cot_201809_0k_zamora" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HE_1901_COT_201809_0K_zamora  to H_DEMARCACION.HE_1901_COT_201809_0K_zamora_1
+
+geoimporter: ERROR:  unterminated quoted string at or near "'Suelos_de_textura_variable,_varios_sitios_con_presencia_de_piedras_y_aluminio_tóxico;"
+LINE 798: ...0-30%_piedras_en_el_perfil.','Sin_Nivel_freático','Suelos_de...
+                                                               ^
+42601
+
+geoimporter: ERROR:  relation "h_demarcacion.hf_1412_zonasriesgo_201809_0k_margenproteccionpuerto" does not exist
+table H_DEMARCACION.HF_1412_ZONASRIESGO_201809_0K_margenproteccionpuerto for folder D:/uploads/tmp/30ff48d6-75f8-4426-bf01-693f2441952c/margen_proteccion_puerto.shp
+
+geoimporter: ERROR:  relation "hd_07_intervencioncuencasplanificada_201809_0k_intervencionc" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HD_07_INTERVENCIONCUENCASPLANIFICADA_201809_0K_intervencionc  to H_DEMARCACION.HD_07_INTERVENCIONCUENCASPLANIFICADA_201809_0K_intervencionc_1
+
+geoimporter: ERROR:  relation "ba_0101_asentamientoshumanosmenores_201809_0k_jerarquiasenta" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_jerarquiasenta  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_jerarquiasenta_1
+
+geoimporter: ERROR:  relation "ba_0101_asentamientoshumanosmenores_201809_0k_limitesparrroq" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_limitesparrroq  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_limitesparrroq_1
+
+geoimporter: ERROR:  relation "ba_0101_asentamientoshumanosmenores_201809_0k_limitecantoncu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_limitecantoncu  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_limitecantoncu_1
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.ba_0101_asentamientoshumanosmenores_201809_0k_porcentajedead" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BA_0101_ASENTAMIENTOSHUMANOSMENORES_201809_0K_porcentajedead for folder D:/uploads/tmp/045deee2-8af6-435b-969a-e7721a6063da/Porcentaje_de_adultos_mayores.shp
+
+geoimporter: ERROR:  relation "hd_0101_cuerposagua_201809_0k_riosprincipalescantoncuenca50k" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HD_0101_CUERPOSAGUA_201809_0K_riosprincipalescantoncuenca50k  to H_DEMARCACION.HD_0101_CUERPOSAGUA_201809_0K_riosprincipalescantoncuenca50k_1
+
+geoimporter: ERROR:  relation "bb_011151_equipamientobienestarsocial_201809_0k_equipamiento" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_011151_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_equipamiento  to B_GEOGRAFIA_SOCIOECONOMICA.BB_011151_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_equipamiento_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_12" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_12" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_13" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_12" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_13" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_14" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_12" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_13" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_14" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_15" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_16
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_12" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_13" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_14" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_15" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_16
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_16" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_16  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_17
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_1  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_2  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_3  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_4  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_5" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_5  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_6" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_6  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_7" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_7  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_8" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_8  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_9" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_9  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_10" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_10  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_11" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_11  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_12" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_12  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_13" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_13  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_14" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_14  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_15" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_15  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_16
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_16" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_16  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_17
+
+geoimporter: ERROR:  relation "hb_0101_propuestausosuelo_201809_0k_categoriascuenca2015sele_17" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_17  to H_DEMARCACION.HB_0101_PROPUESTAUSOSUELO_201809_0K_categoriascuenca2015sele_18
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_3
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_3
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_3" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_3  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_4
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_3
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_3" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_3  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_4
+
+geoimporter: ERROR:  relation "ba_1908_asentamientoshumanosmenores_201809_0k_perimetrourban_4" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_4  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1908_ASENTAMIENTOSHUMANOSMENORES_201809_0K_perimetrourban_5
+
+geoimporter: ERROR:  relation "bb_0808_equipamientobienestarsocial_201809_0k_infraestructur" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_0808_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_infraestructur  to B_GEOGRAFIA_SOCIOECONOMICA.BB_0808_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_infraestructur_1
+
+geoimporter: ERROR:  relation "bd_0808_equipamientoeducacion_201809_0k_infraestructuraeduca" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BD_0808_EQUIPAMIENTOEDUCACION_201809_0K_infraestructuraeduca  to B_GEOGRAFIA_SOCIOECONOMICA.BD_0808_EQUIPAMIENTOEDUCACION_201809_0K_infraestructuraeduca_1
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_1701_equipamientobienestarsocial_201809_0k_atencionadicci" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_1701_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_atencionadicci for folder D:/uploads/tmp/816ca5c4-1085-4d08-b6c1-49f8c952ade4/Infraestructura de bienestar social/Atencion_adicciones.shp
+
+geoimporter: ERROR:  relation "bh_0304_equipamientosociocultural_201809_0k_asistenciasocial" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BH_0304_EQUIPAMIENTOSOCIOCULTURAL_201809_0K_asistenciasocial  to B_GEOGRAFIA_SOCIOECONOMICA.BH_0304_EQUIPAMIENTOSOCIOCULTURAL_201809_0K_asistenciasocial_1
+
+geoimporter: ERROR:  relation "bb_0304_equipamientocontraincendios_201809_0k_asistenciasoci" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_0304_EQUIPAMIENTOCONTRAINCENDIOS_201809_0K_asistenciasoci  to B_GEOGRAFIA_SOCIOECONOMICA.BB_0304_EQUIPAMIENTOCONTRAINCENDIOS_201809_0K_asistenciasoci_1
+
+geoimporter: ERROR:  relation "be_0304_equipamientosalud_201809_0k_centrosaludtroncalbuffer" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_centrosaludtroncalbuffer  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_centrosaludtroncalbuffer_1
+
+geoimporter: ERROR:  relation "be_0304_equipamientosalud_201809_0k_scspanchonegro" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspanchonegro  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspanchonegro_1
+
+geoimporter: ERROR:  relation "be_0304_equipamientosalud_201809_0k_scspanchonegrobuffer" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspanchonegrobuffer  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspanchonegrobuffer_1
+
+geoimporter: ERROR:  relation "be_0304_equipamientosalud_201809_0k_scspuntilla" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspuntilla  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspuntilla_1
+
+geoimporter: ERROR:  relation "be_0304_equipamientosalud_201809_0k_scspuntillabuffer" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspuntillabuffer  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0304_EQUIPAMIENTOSALUD_201809_0K_scspuntillabuffer_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_flujodetritos" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_flujodetritos  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_flujodetritos_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_3
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_3
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_3  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_4
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_flujodetritos" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_flujodetritos  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_flujodetritos_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_flujodetritos_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_flujodetritos_1  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_flujodetritos_2
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_1  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_2" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_2  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_3
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_3" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_3  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_4
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_movimientosenmasa_4" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_4  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_movimientosenmasa_5
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_zonasdeerosion" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_zonasdeerosion  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_zonasdeerosion_1
+
+geoimporter: ERROR:  relation "hf_1908_zonasriesgo_201809_0k_areasinundables" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_areasinundables  to H_DEMARCACION.HF_1908_ZONASRIESGO_201809_0K_areasinundables_1
+
+geoimporter: ERROR:  relation "bb_0304_equipamientobienestarsocial_201809_0k_asistenciasoci" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_0304_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_asistenciasoci  to B_GEOGRAFIA_SOCIOECONOMICA.BB_0304_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_asistenciasoci_1
+
+geoimporter: ERROR:  unterminated quoted string at or near "'Suelos arenosos derivados de materiales piroclÃ¡sticos, poco meteorizados. con baja retenciÃ³n de humedad. Suelos con mÃ¡s del 1% de MO de 0-20cm. En Ã¡reas secas; pH neutro;"
+LINE 680: ...1','1333','4.55553578104e+005','J7','VITRANDEPTS','Suelos ar...
+                                                               ^
+42601
+
+geoimporter: ERROR:  relation "hb_1105_propuestausosuelo_201809_0k_capacidaddeusodelatierra" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_1105_PROPUESTAUSOSUELO_201809_0K_capacidaddeusodelatierra  to H_DEMARCACION.HB_1105_PROPUESTAUSOSUELO_201809_0K_capacidaddeusodelatierra_1
+
+geoimporter: Warning: Dont found file030153_geo_CEMENTERIOS-27.zipDont matching table mongodb and file in folder
+
+geoimporter: ERROR:  relation "ca_180852_vialidadruralplanificada_201809_0k_viasemilioteran" already exists
+42P07
+
+geoimporter: Info shape renamed from C_INFRAESTRUCTURA_TRANSPORTE.CA_180852_VIALIDADRURALPLANIFICADA_201809_0K_viasemilioteran  to C_INFRAESTRUCTURA_TRANSPORTE.CA_180852_VIALIDADRURALPLANIFICADA_201809_0K_viasemilioteran_1
+
+geoimporter: ERROR:  relation "ca_180852_vialidadrural_201809_0k_viasemilioteran" already exists
+42P07
+
+geoimporter: Info shape renamed from C_INFRAESTRUCTURA_TRANSPORTE.CA_180852_VIALIDADRURAL_201809_0K_viasemilioteran  to C_INFRAESTRUCTURA_TRANSPORTE.CA_180852_VIALIDADRURAL_201809_0K_viasemilioteran_1
+
+geoimporter: ERROR:  relation "bb_060755_equipamientootro_201809_0k_unidadeducativasangerar" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_060755_EQUIPAMIENTOOTRO_201809_0K_unidadeducativasangerar  to B_GEOGRAFIA_SOCIOECONOMICA.BB_060755_EQUIPAMIENTOOTRO_201809_0K_unidadeducativasangerar_1
+
+geoimporter: ERROR:  value too long for type character varying(255)
+table H_DEMARCACION.HA_0109_LIMITECANTONAL_201809_0K_cantonsigsig for folder D:/uploads/tmp/1dbff1e9-070f-4feb-8a41-2c5a544872c3/015 LIMITE CANTONAL/CANTON  SIGSIG.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bd_0501_equipamientoeducacion_201809_0k_bufferclegio1100m" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BD_0501_EQUIPAMIENTOEDUCACION_201809_0K_bufferclegio1100m for folder D:/uploads/tmp/219f3d76-0d0d-4331-bb80-d760d41adf40/bufferclegio1100m.shp
+
+geoimporter: ERROR:  unterminated quoted string at or near "'Son areas que deben mantenerse con paramo, vegetacion arbustiva, arborea o cualquier cobertura natural que proteja de la erosion, mantenga la vida silvestre y fuentes de agua. Son tierras con las mas severas limitaciones;"
+LINE 769: ...NICIPAL DE PROTECCION ARBUSTIVA - ARBOREA','VIII','Son areas...
+                                                               ^
+42601
+
+geoimporter: Warning: Dont found file030153_geo_DPA_SHP-1.zipDont matching table mongodb and file in folder
+
+geoimporter: ERROR:  relation "ca_030253_vialidadrural_201809_0k_viapeatonalyanacocha2015" already exists
+42P07
+
+geoimporter: Info shape renamed from C_INFRAESTRUCTURA_TRANSPORTE.CA_030253_VIALIDADRURAL_201809_0K_viapeatonalyanacocha2015  to C_INFRAESTRUCTURA_TRANSPORTE.CA_030253_VIALIDADRURAL_201809_0K_viapeatonalyanacocha2015_1
+
+geoimporter: ERROR:  unterminated quoted string at or near "'1EP; 1ED;"
+LINE 811: ...xt','ESTRUCTURASOPORTE','40','0.00000000000e+000','1EP; 1ED;
+                                                               ^
+42601
+
+geoimporter: ERROR:  relation "ba_030253_casascomunales_201809_0k_cpvvivienda11sectoramanza" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_030253_CASASCOMUNALES_201809_0K_cpvvivienda11sectoramanza  to B_GEOGRAFIA_SOCIOECONOMICA.BA_030253_CASASCOMUNALES_201809_0K_cpvvivienda11sectoramanza_1
+
+geoimporter: ERROR:  unterminated quoted string at or near "'1EP; 1ED;"
+LINE 811: ...xt','ESTRUCTURASOPORTE','40','0.00000000000e+000','1EP; 1ED;
+                                                               ^
+42601
+
+geoimporter: ERROR:  relation "ba_030253_casascomunales_201809_0k_medidoresturupambaemelect" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_030253_CASASCOMUNALES_201809_0K_medidoresturupambaemelect  to B_GEOGRAFIA_SOCIOECONOMICA.BA_030253_CASASCOMUNALES_201809_0K_medidoresturupambaemelect_1
+
+geoimporter: ERROR:  relation "bf_030253_equipamientodeportivo_201809_0k_cpvhogarsectordisp" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvhogarsectordisp  to B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvhogarsectordisp_1
+
+geoimporter: ERROR:  relation "bf_030253_equipamientodeportivo_201809_0k_cpvvivienda11secto" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvvivienda11secto  to B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvvivienda11secto_1
+
+geoimporter: ERROR:  relation "bf_030253_equipamientodeportivo_201809_0k_cpvvivienda11secto" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvvivienda11secto  to B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvvivienda11secto_1
+
+geoimporter: ERROR:  relation "bf_030253_equipamientodeportivo_201809_0k_cpvvivienda11secto_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvvivienda11secto_1  to B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_cpvvivienda11secto_2
+
+geoimporter: ERROR:  unterminated quoted string at or near "'1EP; 1ED;"
+LINE 811: ...xt','ESTRUCTURASOPORTE','40','0.00000000000e+000','1EP; 1ED;
+                                                               ^
+42601
+
+geoimporter: ERROR:  relation "bf_030253_equipamientodeportivo_201809_0k_medidoresturupamba" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_medidoresturupamba  to B_GEOGRAFIA_SOCIOECONOMICA.BF_030253_EQUIPAMIENTODEPORTIVO_201809_0K_medidoresturupamba_1
+
+geoimporter: ERROR:  unterminated quoted string at or near "'Son areas que deben mantenerse con paramo, vegetacion arbustiva, arborea o cualquier cobertura natural que proteja de la erosion, mantenga la vida silvestre y fuentes de agua. Son tierras con las mas severas limitaciones;"
+LINE 802: ...CIPAL DE CONSERVACION ARBOREA - ARBUSTIVA','VIII','Son areas...
+                                                               ^
+42601
+
+geoimporter: ERROR:  unterminated quoted string at or near "'Son areas que deben mantenerse con paramo, vegetacion arbustiva, arborea o cualquier cobertura natural que proteja de la erosion, mantenga la vida silvestre y fuentes de agua. Son tierras con las mas severas limitaciones;"
+LINE 682: ...NICIPAL DE PROTECCION ARBUSTIVA - ARBOREA','VIII','Son areas...
+                                                               ^
+42601
+
+geoimporter: Warning: Dont found file0919_geo_limites_salitre.zipDont matching table mongodb and file in folder
+
+geoimporter: ERROR:  relation "h_demarcacion.he_1310_cot_201809_0k_cotcoberturausopajan" does not exist
+table H_DEMARCACION.HE_1310_COT_201809_0K_cotcoberturausopajan for folder D:/uploads/tmp/a59580f3-525a-4548-bd83-38c7752f0f5d/USO ACTUAL/COT_COBERTURA_USO_PAJAN.shp
+
+geoimporter: ERROR:  relation "h_demarcacion.he_1310_cot_201809_0k_cotcoberturausopajan2" does not exist
+table H_DEMARCACION.HE_1310_COT_201809_0K_cotcoberturausopajan2 for folder D:/uploads/tmp/a59580f3-525a-4548-bd83-38c7752f0f5d/USO ACTUAL/COT_COBERTURA_USO_PAJAN_2.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.ba_060554_casascomunales_201809_0k_centrossalud" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BA_060554_CASASCOMUNALES_201809_0K_centrossalud for folder D:/uploads/tmp/3cd6941c-1fe6-424a-8938-2565ba57c792/CENTROS-SALUD.shp
+
+geoimporter: ERROR:  relation "hb_0602_propuestareservasueloequipamientos_201809_0k_distrib" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0602_PROPUESTARESERVASUELOEQUIPAMIENTOS_201809_0K_distrib  to H_DEMARCACION.HB_0602_PROPUESTARESERVASUELOEQUIPAMIENTOS_201809_0K_distrib_1
+
+geoimporter: ERROR:  relation "cf_0601_propuestatratamientoagualluvia_201809_0k_alcantarill" already exists
+42P07
+
+geoimporter: Info shape renamed from C_INFRAESTRUCTURA_TRANSPORTE.CF_0601_PROPUESTATRATAMIENTOAGUALLUVIA_201809_0K_alcantarill  to C_INFRAESTRUCTURA_TRANSPORTE.CF_0601_PROPUESTATRATAMIENTOAGUALLUVIA_201809_0K_alcantarill_1
+
+geoimporter: ERROR:  relation "bb_1304_equipamientocontraincendios_201809_0k_cuerpodebomber" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_1304_EQUIPAMIENTOCONTRAINCENDIOS_201809_0K_cuerpodebomber  to B_GEOGRAFIA_SOCIOECONOMICA.BB_1304_EQUIPAMIENTOCONTRAINCENDIOS_201809_0K_cuerpodebomber_1
+
+geoimporter: ERROR:  relation "ag_0601_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0601_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0601_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_canchasmultipl" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_canchasmultipl  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_canchasmultipl_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_casacomunal" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_casacomunal  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_casacomunal_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_centroseducati" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_centroseducati  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_centroseducati_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_cooperativasde" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_cooperativasde  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_cooperativasde_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_infraestructur" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_infraestructur  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_infraestructur_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresturisti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresturisti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresturisti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresturisti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresturisti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresturisti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresturisti_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresturisti_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresturisti_2
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_3" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_4
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_3" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_4
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_4" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_4  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_5
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_1" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_1  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_2  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_3" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_3  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_4
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_4" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_4  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_5
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_lugaresdeporti_5" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_5  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_lugaresdeporti_6
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_mercadosmatriz" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_mercadosmatriz  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_mercadosmatriz_1
+
+geoimporter: ERROR:  relation "ba_1806_asentamientoshumanosmenores_201809_0k_subcentrosdesa" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_subcentrosdesa  to B_GEOGRAFIA_SOCIOECONOMICA.BA_1806_ASENTAMIENTOSHUMANOSMENORES_201809_0K_subcentrosdesa_1
+
+geoimporter: ERROR:  relation "ba_0302_asentamientoshumanosmenores_201809_0k_nazonjerarquia" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BA_0302_ASENTAMIENTOSHUMANOSMENORES_201809_0K_nazonjerarquia  to B_GEOGRAFIA_SOCIOECONOMICA.BA_0302_ASENTAMIENTOSHUMANOSMENORES_201809_0K_nazonjerarquia_1
+
+geoimporter: ERROR:  unterminated quoted string at or near "'Area Rural de protecciÃ³n local con severas limitaciones;"
+LINE 707: ...n" ("categ_ot","orig_fid","cot",the_geom) VALUES ('Area Rura...
+                                                               ^
+42601
+
+geoimporter: ERROR:  relation "be_0302_equipamientosalud_201809_0k_saludparroquiajerusalen2" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0302_EQUIPAMIENTOSALUD_201809_0K_saludparroquiajerusalen2  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0302_EQUIPAMIENTOSALUD_201809_0K_saludparroquiajerusalen2_1
+
+geoimporter: ERROR:  relation "be_0302_equipamientosalud_201809_0k_saludparroquiajerusalens" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_0302_EQUIPAMIENTOSALUD_201809_0K_saludparroquiajerusalens  to B_GEOGRAFIA_SOCIOECONOMICA.BE_0302_EQUIPAMIENTOSALUD_201809_0K_saludparroquiajerusalens_1
+
+geoimporter: ERROR:  value too long for type character varying(12)
+table B_GEOGRAFIA_SOCIOECONOMICA.BA_1809_ASENTAMIENTOSHUMANOSMENORES_201809_0K_edificacion for folder D:/uploads/tmp/9a5f74d6-cd86-4202-a3cc-f7ff137d9f1d/EDIFICACIONES RURAL/Edificacion.shp
+
+geoimporter: ERROR:  relation "hb_0504_propuestareservasueloequipamientos_201809_0k_franjap" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0504_PROPUESTARESERVASUELOEQUIPAMIENTOS_201809_0K_franjap  to H_DEMARCACION.HB_0504_PROPUESTARESERVASUELOEQUIPAMIENTOS_201809_0K_franjap_1
+
+geoimporter: ERROR:  relation "ha_0302_limiteparroquiasrural_201809_0k_nacionalprovincias50" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HA_0302_LIMITEPARROQUIASRURAL_201809_0K_nacionalprovincias50  to H_DEMARCACION.HA_0302_LIMITEPARROQUIASRURAL_201809_0K_nacionalprovincias50_1
+
+geoimporter: ERROR:  relation "c_infraestructura_transporte.ca_060755_vialidadrural_201809_0k_informeviasdxfmultipatch" does not exist
+table C_INFRAESTRUCTURA_TRANSPORTE.CA_060755_VIALIDADRURAL_201809_0K_informeviasdxfmultipatch for folder D:/uploads/tmp/7a66c2e1-c386-4168-9d2f-a1ed849a5a99/vias/INFORME VIAS_dxf_MultiPatch.shp
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_4" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_4" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_5" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_4" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_5" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_6" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_4" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_5" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_6" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_7" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_8
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_4" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_5" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_6" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_7" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_8
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_8" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_8  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_9
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_1" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_1  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_2" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_2  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_3" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_3  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_4" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_4  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_5" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_5  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_6" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_6  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_7" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_7  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_8
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_8" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_8  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_9
+
+geoimporter: ERROR:  relation "ag_0302_propuestatratamientoaguaresidual_201809_0k_alcantari_9" already exists
+42P07
+
+geoimporter: Info shape renamed from A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_9  to A_INDUSTRIA_SERVICIOS.AG_0302_PROPUESTATRATAMIENTOAGUARESIDUAL_201809_0K_alcantari_10
+
+geoimporter: ERROR:  relation "hf_0302_zonasriesgo_201809_0k_fallasbiblian" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_0302_ZONASRIESGO_201809_0K_fallasbiblian  to H_DEMARCACION.HF_0302_ZONASRIESGO_201809_0K_fallasbiblian_1
+
+geoimporter: Warning: Dont found file0107_geo_Red_Hidrica.zipDont matching table mongodb and file in folder
+
+geoimporter: ERROR:  relation "hb_0806_propuestareservasueloviviendasocial_201809_0k_proyec" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0806_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_proyec  to H_DEMARCACION.HB_0806_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_proyec_1
+
+geoimporter: ERROR:  relation "hb_0806_propuestareservasueloviviendasocial_201809_0k_proyec" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0806_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_proyec  to H_DEMARCACION.HB_0806_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_proyec_1
+
+geoimporter: ERROR:  relation "hb_0806_propuestareservasueloviviendasocial_201809_0k_proyec_1" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HB_0806_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_proyec_1  to H_DEMARCACION.HB_0806_PROPUESTARESERVASUELOVIVIENDASOCIAL_201809_0K_proyec_2
+
+geoimporter: ERROR:  relation "bb_0107_equipamientobienestarsocial_201809_0k_coberturarecre" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_0107_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_coberturarecre  to B_GEOGRAFIA_SOCIOECONOMICA.BB_0107_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_coberturarecre_1
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_canaazucar" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_canaazucar for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Ca�a_Azucar.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_pastoscultivados" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_pastoscultivados for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Pastos_Cultivados.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_puosgualea" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_puosgualea for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/PUOS_Gualea.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_suelosgualea" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_suelosgualea for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Suelos_Gualea.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_uso1986" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_uso1986 for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Uso_1986.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_uso1996" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_uso1996 for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Uso_1996.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_usogualea" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_usogualea for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Uso_Gualea.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bb_170161_equipamientopropuesto_201809_0k_usosuelo" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BB_170161_EQUIPAMIENTOPROPUESTO_201809_0K_usosuelo for folder D:/uploads/tmp/02725021-b854-46ff-ad0f-7867041a7c93/Uso_Suelo.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bf_170161_equipamientodeportivo_201809_0k_areasurbanas" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BF_170161_EQUIPAMIENTODEPORTIVO_201809_0K_areasurbanas for folder D:/uploads/tmp/40c3f6e9-0383-42db-80ad-10c2e2bf8da3/Areas_Urbanas.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bf_170161_equipamientodeportivo_201809_0k_asentamientosguale" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BF_170161_EQUIPAMIENTODEPORTIVO_201809_0K_asentamientosguale for folder D:/uploads/tmp/40c3f6e9-0383-42db-80ad-10c2e2bf8da3/Asentamientos_Gualea.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bf_170161_equipamientodeportivo_201809_0k_poblados" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BF_170161_EQUIPAMIENTODEPORTIVO_201809_0K_poblados for folder D:/uploads/tmp/40c3f6e9-0383-42db-80ad-10c2e2bf8da3/Poblados.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bf_170161_equipamientodeportivo_201809_0k_pobladosgualea" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BF_170161_EQUIPAMIENTODEPORTIVO_201809_0K_pobladosgualea for folder D:/uploads/tmp/40c3f6e9-0383-42db-80ad-10c2e2bf8da3/Poblados_Gualea.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bc_170161_equipamientoproduccion_201809_0k_areasurbanas" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BC_170161_EQUIPAMIENTOPRODUCCION_201809_0K_areasurbanas for folder D:/uploads/tmp/1dbce61f-033e-4fcb-ba8a-bb1d7c6ca561/Areas_Urbanas.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bc_170161_equipamientoproduccion_201809_0k_asentamientosgual" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BC_170161_EQUIPAMIENTOPRODUCCION_201809_0K_asentamientosgual for folder D:/uploads/tmp/1dbce61f-033e-4fcb-ba8a-bb1d7c6ca561/Asentamientos_Gualea.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bc_170161_equipamientoproduccion_201809_0k_poblados" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BC_170161_EQUIPAMIENTOPRODUCCION_201809_0K_poblados for folder D:/uploads/tmp/1dbce61f-033e-4fcb-ba8a-bb1d7c6ca561/Poblados.shp
+
+geoimporter: ERROR:  relation "b_geografia_socioeconomica.bc_170161_equipamientoproduccion_201809_0k_pobladosgualea" does not exist
+table B_GEOGRAFIA_SOCIOECONOMICA.BC_170161_EQUIPAMIENTOPRODUCCION_201809_0K_pobladosgualea for folder D:/uploads/tmp/1dbce61f-033e-4fcb-ba8a-bb1d7c6ca561/Poblados_Gualea.shp
+
+geoimporter: ERROR:  relation "bb_080252_equipamientobienestarsocial_201809_0k_bufferareasd" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_bufferareasd  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_bufferareasd_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientobienestarsocial_201809_0k_joinareasdei" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_joinareasdei  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_joinareasdei_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientobienestarsocial_201809_0k_lineasareasd" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_lineasareasd  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_lineasareasd_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientobienestarsocial_201809_0k_puntosareasd" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_puntosareasd  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOBIENESTARSOCIAL_201809_0K_puntosareasd_1
+
+geoimporter: ERROR:  relation "be_080252_equipamientosalud_201809_0k_bufferareasdeinfluenci" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_080252_EQUIPAMIENTOSALUD_201809_0K_bufferareasdeinfluenci  to B_GEOGRAFIA_SOCIOECONOMICA.BE_080252_EQUIPAMIENTOSALUD_201809_0K_bufferareasdeinfluenci_1
+
+geoimporter: ERROR:  relation "be_080252_equipamientosalud_201809_0k_lineasareasdeinfluenci" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_080252_EQUIPAMIENTOSALUD_201809_0K_lineasareasdeinfluenci  to B_GEOGRAFIA_SOCIOECONOMICA.BE_080252_EQUIPAMIENTOSALUD_201809_0K_lineasareasdeinfluenci_1
+
+geoimporter: ERROR:  relation "be_080252_equipamientosalud_201809_0k_puntosareasdeinfluenci" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BE_080252_EQUIPAMIENTOSALUD_201809_0K_puntosareasdeinfluenci  to B_GEOGRAFIA_SOCIOECONOMICA.BE_080252_EQUIPAMIENTOSALUD_201809_0K_puntosareasdeinfluenci_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientoseguridad_201809_0k_bufferareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_bufferareasdeinflu  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_bufferareasdeinflu_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientoseguridad_201809_0k_joinareasdeinfluen" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_joinareasdeinfluen  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_joinareasdeinfluen_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientoseguridad_201809_0k_lineasareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_lineasareasdeinflu  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_lineasareasdeinflu_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientoseguridad_201809_0k_puntosareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_puntosareasdeinflu  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOSEGURIDAD_201809_0K_puntosareasdeinflu_1
+
+geoimporter: ERROR:  relation "bc_080252_equipamientoproduccion_201809_0k_bufferareasdeinfl" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_bufferareasdeinfl  to B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_bufferareasdeinfl_1
+
+geoimporter: ERROR:  relation "bc_080252_equipamientoproduccion_201809_0k_joinareasdeinflue" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_joinareasdeinflue  to B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_joinareasdeinflue_1
+
+geoimporter: ERROR:  relation "bc_080252_equipamientoproduccion_201809_0k_lineasareasdeinfl" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_lineasareasdeinfl  to B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_lineasareasdeinfl_1
+
+geoimporter: ERROR:  relation "bc_080252_equipamientoproduccion_201809_0k_puntosareasdeinfl" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_puntosareasdeinfl  to B_GEOGRAFIA_SOCIOECONOMICA.BC_080252_EQUIPAMIENTOPRODUCCION_201809_0K_puntosareasdeinfl_1
+
+geoimporter: ERROR:  relation "bf_080252_equipamientodeportivo_201809_0k_bufferareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_bufferareasdeinflu  to B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_bufferareasdeinflu_1
+
+geoimporter: ERROR:  relation "bf_080252_equipamientodeportivo_201809_0k_joinareasdeinfluen" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_joinareasdeinfluen  to B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_joinareasdeinfluen_1
+
+geoimporter: ERROR:  relation "bf_080252_equipamientodeportivo_201809_0k_lineasareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_lineasareasdeinflu  to B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_lineasareasdeinflu_1
+
+geoimporter: ERROR:  relation "bf_080252_equipamientodeportivo_201809_0k_puntosareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_puntosareasdeinflu  to B_GEOGRAFIA_SOCIOECONOMICA.BF_080252_EQUIPAMIENTODEPORTIVO_201809_0K_puntosareasdeinflu_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientootro_201809_0k_bufferareasdeinfluencia" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOOTRO_201809_0K_bufferareasdeinfluencia  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOOTRO_201809_0K_bufferareasdeinfluencia_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientootro_201809_0k_lineasareasdeinfluencia" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOOTRO_201809_0K_lineasareasdeinfluencia  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOOTRO_201809_0K_lineasareasdeinfluencia_1
+
+geoimporter: ERROR:  relation "bb_080252_equipamientootro_201809_0k_puntosareasdeinfluencia" already exists
+42P07
+
+geoimporter: Info shape renamed from B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOOTRO_201809_0K_puntosareasdeinfluencia  to B_GEOGRAFIA_SOCIOECONOMICA.BB_080252_EQUIPAMIENTOOTRO_201809_0K_puntosareasdeinfluencia_1
+
+geoimporter: ERROR:  relation "hf_080252_areaproductivapropuesta_201809_0k_joinareasdeinflu" already exists
+42P07
+
+geoimporter: Info shape renamed from H_DEMARCACION.HF_080252_AREAPRODUCTIVAPROPUESTA_201809_0K_joinareasdeinflu  to H_DEMARCACION.HF_080252_AREAPRODUCTIVAPROPUESTA_201809_0K_joinareasdeinflu_1
+
+geoimporter: ERROR:  relation "ca_080252_vialidadruralplanificada_201809_0k_lineasareasdein" already exists
+42P07
+
+geoimporter: Info shape renamed from C_INFRAESTRUCTURA_TRANSPORTE.CA_080252_VIALIDADRURALPLANIFICADA_201809_0K_lineasareasdein  to C_INFRAESTRUCTURA_TRANSPORTE.CA_080252_VIALIDADRURALPLANIFICADA_201809_0K_lineasareasdein_1
+
+geoimporter: Warning: Dont found file170171_geo_3_equipamiento_alcance_parroquial_propuesto.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170171_geo_5_equipamiento_salud_de_alcance_parroquial.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170171_geo_16___reas_propuestas_para_fomentar_las_actividades_productivas_comunitarias.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170168_geo_1_casas_comunales-2.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file111160_geo_Casas_comunales.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170169_geo_1_casas_comunales.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170169_geo_3_equipamiento_alcance_parroquial_propuesto.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170169_geo_11_gobierno_ferias_y_otros_similares.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170171_geo_11_gobierno_ferias_y_otros_similares.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file111160_geo_Equipamiento.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170154_geo_4_equipamiento__de_bienestar_de_alcance_parroquial.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170154_geo_16___reas_propuestas_para_fomentar_las_actividades_productivas_comunitarias.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170168_geo_16___reas_propuestas_para_fomentar_las_actividades_productivas_comunitarias.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file110153_geo_9_limites_comunas_recintos_y_anejos.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file110153_geo_7_equipamiento_de_alcance_parroquial_de_apoyo_a_la_produccion.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file110153_geo_16___reas_propuestas_para_fomentar_las_actividades_productivas_comunitarias.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file170169_geo_16___reas_propuestas_para_fomentar_las_actividades_productivas_comunitarias.rarDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_proyectosriego_GADAzuay20052014_.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_2012GADAzuay_perfilAzuay_sinZhingata_aUTMWGS8417S.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_Div_Cantonal_Azuay_sinZhingata_aUTMWGS8417S.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_vialidadexistente_GADAzuayPDOT2015.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_vialidadpropuesta_GADAzuayPDOT2015.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_vialidadexistente_GADAzuayPDOT2015-2.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_Division_Parroquial_Azuay_2011_sinZhingata_aUTMWGS8417S.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_vialidadexistente_GADAzuayPDOT2015-3.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_areasagricolas_GADAzuayPDOT2015.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file01_geo_proyectosriegoprogramados_GADAzuayPDOT2015_.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0607_geo_Asentamientos_humanos_menores-1.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0607_geo_Categorias_de_Ordenamiento-1.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0301_geo_equipamiento_urbano.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0301_geo_asignacion_usos_de_suelo.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0301_geo_red_vial_canton.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0301_geo_usos_de_suelo-2.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0301_geo_patrimonio_natural_cantonal.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file0301_geo_areas_de_patrimonio_cultural-1.zipDont matching table mongodb and file in folder
+
+geoimporter: Warning: Dont found file030153_geo_asentamientoshumanos.zipDont matching table mongodb and file in folder
+
