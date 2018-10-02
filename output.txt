@@ -2068,3 +2068,14 @@ geoimporter: Warning: Dont found file0301_geo_areas_de_patrimonio_cultural-1.zip
 
 geoimporter: Warning: Dont found file030153_geo_asentamientoshumanos.zipDont matching table mongodb and file in folder
 
+
+Dont import: bb_1708_equipamientobienestarsocial_201809_0k_infrabienestar
+Dont import: bc_1315_equipamientomercados_201809_0k_actores
+Dont import: bc_190851_mercadosferias_201809_0k_barriosconserviciosbusico
+Dont import: bd_1315_equipamientoeducacion_201809_0k_educacion
+Dont import: be_1315_equipamientosalud_201809_0k_salud
+Dont import: bf_1315_instalacionesdeportivas_201809_0k_recreacion
+Dont import: bh_1315_equipamientosociocultural_201809_0k_educacion
+Dont import: bh_1315_equipamientosociocultural_201809_0k_iglesias
+Dont import: bh_1315_equipamientosociocultural_201809_0k_recreacion
+Dont import: bh_1315_equipamientosociocultural_201809_0k_salud
